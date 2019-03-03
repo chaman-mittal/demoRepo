@@ -1,3 +1,0 @@
-This is Chaman Mittal.
-My current tech is Vue.js and Node.js
-hello 
